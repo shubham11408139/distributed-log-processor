@@ -1,0 +1,169 @@
+2025-06-12 14:03:49 | INFO | Logger service initialized
+2025-06-12 14:03:49 | INFO | Log level set to: INFO
+2025-06-12 14:03:50 | INFO | Log frequency: 5.0 seconds
+2025-06-12 14:03:50 | INFO | Logging to file: /logs/logger.log
+2025-06-12 14:03:50 | INFO | Log rotation size: 1.0 MB
+2025-06-12 14:03:50 | INFO | System started successfully
+2025-06-12 14:03:50 | INFO | Processing incoming data batch
+2025-06-12 14:03:50 | WARNING | High memory usage detected (85%)
+2025-06-12 14:03:50 | INFO | Retrying connection in 5 seconds
+2025-06-12 14:03:50 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:03:50 | INFO | Web server started at http://0.0.0.0:8080
+2025-06-12 14:03:55 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:00 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:05 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:08 | INFO | System started successfully
+2025-06-12 14:04:10 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:15 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:20 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:25 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:30 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:35 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:40 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:44 | INFO | Processing incoming data batch
+2025-06-12 14:04:45 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:50 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:04:55 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:00 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:05 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:06 | WARNING | Slow query detected (2.5s execution time)
+2025-06-12 14:05:10 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:15 | INFO | Web request: "GET / HTTP/1.1" 200 -
+2025-06-12 14:05:15 | INFO | Web request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+2025-06-12 14:05:15 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:05:15 | INFO | Web request: "GET /api/config HTTP/1.1" 200 -
+2025-06-12 14:05:15 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:17 | INFO | Web request: "GET /favicon.ico HTTP/1.1" 404 -
+2025-06-12 14:05:19 | INFO | Processing incoming data batch
+2025-06-12 14:05:20 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:25 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:26 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:05:28 | INFO | System started successfully
+2025-06-12 14:05:30 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:35 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:05:35 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:40 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:41 | INFO | Successfully processed 1542 records
+2025-06-12 14:05:45 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:05:45 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:47 | INFO | System operating within normal parameters
+2025-06-12 14:05:49 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:05:50 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:55 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:05:55 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:05:58 | INFO | Starting automated cleanup routine
+2025-06-12 14:06:00 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:05 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:06:05 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:08 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:06:10 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:15 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:06:15 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:16 | ERROR | Failed to connect to secondary database
+2025-06-12 14:06:20 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:25 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:06:25 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:30 | INFO | Retrying connection in 5 seconds
+2025-06-12 14:06:30 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:35 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:06:35 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:37 | INFO | Successfully processed 1542 records
+2025-06-12 14:06:40 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:45 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:06:45 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:47 | WARNING | High memory usage detected (85%)
+2025-06-12 14:06:50 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:06:55 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:06:55 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:00 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:01 | INFO | System started successfully
+2025-06-12 14:07:05 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:07:05 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:10 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:15 | INFO | System operating within normal parameters
+2025-06-12 14:07:15 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:16 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:07:20 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:26 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:26 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:07:31 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:34 | INFO | System operating within normal parameters
+2025-06-12 14:07:36 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:36 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:07:41 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:46 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:46 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:07:51 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:07:52 | INFO | System operating within normal parameters
+2025-06-12 14:07:56 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:07:56 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:01 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:01 | WARNING | Slow query detected (2.5s execution time)
+2025-06-12 14:08:06 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:08:06 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:11 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:15 | INFO | Data processing completed in 1.2 seconds
+2025-06-12 14:08:16 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:21 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:23 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:08:25 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:08:26 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:31 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:35 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:08:35 | INFO | Retrying connection in 5 seconds
+2025-06-12 14:08:36 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:41 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:43 | CRITICAL | Disk space critical: 98% full
+2025-06-12 14:08:45 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:08:46 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:51 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:08:55 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:08:56 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:01 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:01 | INFO | System started successfully
+2025-06-12 14:09:06 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:09:06 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:11 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:16 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:09:16 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:17 | INFO | System started successfully
+2025-06-12 14:09:21 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:25 | INFO | Starting automated cleanup routine
+2025-06-12 14:09:26 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:09:26 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:31 | INFO | System started successfully
+2025-06-12 14:09:31 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:36 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:09:36 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:38 | ERROR | Failed to connect to secondary database
+2025-06-12 14:09:41 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:45 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:09:45 | INFO | Processing incoming data batch
+2025-06-12 14:09:46 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:51 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:09:52 | INFO | Successfully processed 1542 records
+2025-06-12 14:09:56 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:09:56 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:01 | CRITICAL | Disk space critical: 98% full
+2025-06-12 14:10:01 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:06 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:10:06 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:11 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:13 | CRITICAL | Disk space critical: 98% full
+2025-06-12 14:10:16 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:10:16 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:20 | INFO | Successfully processed 1542 records
+2025-06-12 14:10:21 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:26 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:10:26 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:31 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:35 | WARNING | Slow query detected (2.5s execution time)
+2025-06-12 14:10:36 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:10:36 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:41 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:46 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:10:46 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:51 | INFO | Logger service is running as part of our distributed system
+2025-06-12 14:10:54 | INFO | System started successfully
+2025-06-12 14:10:56 | INFO | Web request: "GET /api/logs HTTP/1.1" 200 -
+2025-06-12 14:10:56 | INFO | Logger service is running as part of our distributed system
