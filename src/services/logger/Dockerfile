@@ -7,4 +7,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy application code
 COPY . .
 
-CMD ["python", "app.py"]
+# Run the application
+ENTRYPOINT ["python", "-u"]
+CMD ["app.py"]

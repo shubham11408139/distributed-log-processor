@@ -1,4 +1,3 @@
-version: '3'
 services:
   # Our simple python service to test the environment
   logger:
